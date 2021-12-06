@@ -1,22 +1,35 @@
 {
   "files": {
-    "main.css": "/university_map-react-app/static/css/main.d73d0fa6.chunk.css",
-    "main.js": "/university_map-react-app/static/js/main.4f1f8159.chunk.js",
-    "main.js.map": "/university_map-react-app/static/js/main.4f1f8159.chunk.js.map",
-    "runtime-main.js": "/university_map-react-app/static/js/runtime-main.51ecbc55.js",
-    "runtime-main.js.map": "/university_map-react-app/static/js/runtime-main.51ecbc55.js.map",
-    "static/js/2.34a6455e.chunk.js": "/university_map-react-app/static/js/2.34a6455e.chunk.js",
-    "static/js/2.34a6455e.chunk.js.map": "/university_map-react-app/static/js/2.34a6455e.chunk.js.map",
-    "static/js/3.2a79897f.chunk.js": "/university_map-react-app/static/js/3.2a79897f.chunk.js",
-    "static/js/3.2a79897f.chunk.js.map": "/university_map-react-app/static/js/3.2a79897f.chunk.js.map",
-    "index.html": "/university_map-react-app/index.html",
-    "static/css/main.d73d0fa6.chunk.css.map": "/university_map-react-app/static/css/main.d73d0fa6.chunk.css.map",
-    "static/js/2.34a6455e.chunk.js.LICENSE.txt": "/university_map-react-app/static/js/2.34a6455e.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.d1aa8433.chunk.css",
+    "main.js": "/static/js/main.b9af508b.chunk.js",
+    "main.js.map": "/static/js/main.b9af508b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.27c5979a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.27c5979a.js.map",
+    "static/js/2.5acf5c5e.chunk.js": "/static/js/2.5acf5c5e.chunk.js",
+    "static/js/2.5acf5c5e.chunk.js.map": "/static/js/2.5acf5c5e.chunk.js.map",
+    "static/js/3.54c71be4.chunk.js": "/static/js/3.54c71be4.chunk.js",
+    "static/js/3.54c71be4.chunk.js.map": "/static/js/3.54c71be4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d1aa8433.chunk.css.map": "/static/css/main.d1aa8433.chunk.css.map",
+    "static/js/2.5acf5c5e.chunk.js.LICENSE.txt": "/static/js/2.5acf5c5e.chunk.js.LICENSE.txt",
+    "static/media/1. Пресс-подход прокурора Пермского края Павла Бухтоярова и председателя Общественной палаты Пермского края Дмитрия Красильникова после подписания соглашения о взаим.jpg": "/static/media/1. Пресс-подход прокурора Пермского края Павла Бухтоярова и председателя Общественной палаты Пермского края Дмитрия Красильникова после подписания соглашения о взаим.f47c3b20.jpg",
+    "static/media/2. Коллектив прокуратуры района.JPG": "/static/media/2. Коллектив прокуратуры района.08cd479e.JPG",
+    "static/media/2. Коллектив прокуратуры района.jpg": "/static/media/2. Коллектив прокуратуры района.4020ab3c.jpg",
+    "static/media/2. Прокурор края Павел Бухтояров (2).jpg": "/static/media/2. Прокурор края Павел Бухтояров (2).9c497e3c.jpg",
+    "static/media/3. Коллектив прокуратуры района принимает участие в экологической акции.jpg": "/static/media/3. Коллектив прокуратуры района принимает участие в экологической акции.fc7bc38b.jpg",
+    "static/media/3. Коллектив прокуратуры района.jpg": "/static/media/3. Коллектив прокуратуры района.b6a4163a.jpg",
+    "static/media/3. Прокурор края Павел Бухтояров и его заместитель Андрей Назаров на встрече с жильцами проблемного дома.JPG": "/static/media/3. Прокурор края Павел Бухтояров и его заместитель Андрей Назаров на встрече с жильцами проблемного дома.d25a4350.JPG",
+    "static/media/4. Коллектив прокуратуры района.JPG": "/static/media/4. Коллектив прокуратуры района.84d785d6.JPG",
+    "static/media/4. Прокурор края Павел Бухтояров.jpg": "/static/media/4. Прокурор края Павел Бухтояров.c9f43c46.jpg",
+    "static/media/4. Процесс отбора лучших работ участников конкурса детских рисунков.JPG": "/static/media/4. Процесс отбора лучших работ участников конкурса детских рисунков.98d1a3a6.JPG",
+    "static/media/5. Коллектив прокуратуры Красновишерского района на торжественном возложении цветов к памятнику героям Великой Отечественнй войны.jpg": "/static/media/5. Коллектив прокуратуры Красновишерского района на торжественном возложении цветов к памятнику героям Великой Отечественнй войны.31d08dd5.jpg",
+    "static/media/index.css": "/static/media/NotoSansJP-Medium.1b7dde00.otf",
+    "static/media/Prosecutor.jpg": "/static/media/Prosecutor.a6fcdd7c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.51ecbc55.js",
-    "static/js/2.34a6455e.chunk.js",
-    "static/css/main.d73d0fa6.chunk.css",
-    "static/js/main.4f1f8159.chunk.js"
+    "static/js/runtime-main.27c5979a.js",
+    "static/js/2.5acf5c5e.chunk.js",
+    "static/css/main.d1aa8433.chunk.css",
+    "static/js/main.b9af508b.chunk.js"
   ]
 }
